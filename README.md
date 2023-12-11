@@ -1,7 +1,7 @@
 # Linux Server Docker App Configuration 
 - VM, SSH, Docker, DockerHub
 
-> :mega: In the configuration steps replace all occurrences of:
+💡 In the configuration steps replace all occurrences of:
 > - `<tag>` with your chosen tag image from DockerHub
 
 
